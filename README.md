@@ -1,12 +1,12 @@
 ## Hi there, I'm Arkaniva !!  👋
 
-### Student, Innovation Enthusiast, Tech Geek, and a Future Bioengineer!!
+### Student, Innovation Enthusiast, Tech Geek, and a Bioengineer!!
 
 
-- 🎓 Pursuing my undergrads in Bioengineering
-- 💻 Currenly working part-time as an Engineering Analyst @ [Steroviz Pixels]
+- 🎓 Currently pursuing my master in Medical Engineering
+- 💻 Looking for part-time opportunities
 - 🍀 I’m currently trying to explore the multidisplinary nature of Bioengineering and learn as much as I can 😄
-- 🥅 2022 Goals: To learn more about Biosignals and Medical Image Processing. 📷
+- 🥅 2023 Goals: Get into the domain of 3D programming and XR development. 📷
 - ⚡ Looking to collaborate with others in creating something exhilarating
 - 🚆 I love to travel. 🗻 Mountains are always my first choice.
 - 💪 Fitness freak: Trained martial artist and swimmer
@@ -35,6 +35,5 @@
 
 
 
-[Steroviz Pixels]: https://steroviz.com/
 [linkedin]: https://www.linkedin.com/in/arkaniva-sarkar/
 [twitter]: https://twitter.com/ArkanivaSarkar
