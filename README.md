@@ -12,12 +12,6 @@
 - 💪 Fitness freak: Trained martial artist and swimmer
 
 
-### Connect with me:
-
-[<img align="left" alt="ArkanivaSarkar | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />][twitter]
-
-[<img align="left" alt="arkaniva-sarkar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-
 
 
 <br />
@@ -35,5 +29,3 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/arkaniva-sarkar/
-[twitter]: https://twitter.com/ArkanivaSarkar
