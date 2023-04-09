@@ -2,12 +2,10 @@
 
 ### Student, Innovation Enthusiast, Tech Geek, and a Bioengineer!!
 
-[<iframe
-  src="https://NimaBoscarino-hotdog-streamlit.hf.space?embed=true"
-  title="My awesome Streamlit Space"
-  width="850"
-  height="450"
-></iframe>]
+
+
+<a id="iframeLink" href="https://NimaBoscarino-hotdog-streamlit.hf.space?embed=true">Visible link text</a></p>
+   <div id="iframeDiv"><img src="image_for_repository.png"></div>
 
 - 🎓 Currently pursuing my master in Medical Engineering
 - 💻 Looking for part-time opportunities
