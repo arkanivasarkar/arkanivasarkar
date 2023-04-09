@@ -3,10 +3,6 @@
 ### Student, Innovation Enthusiast, Tech Geek, and a Bioengineer!!
 
 
-
-<a id="iframeLink" href="https://NimaBoscarino-hotdog-streamlit.hf.space?embed=true">Visible link text</a></p>
-   <div id="iframeDiv"><img src="image_for_repository.png"></div>
-
 - 🎓 Currently pursuing my master in Medical Engineering
 - 💻 Looking for part-time opportunities
 - 🍀 I’m currently trying to explore the multidisplinary nature of Bioengineering and learn as much as I can 😄
