@@ -10,6 +10,7 @@
 - ⚡ Looking to collaborate with others in creating something exhilarating
 - 🚆 I love to travel. 🗻 Mountains are always my first choice.
 - 💪 Fitness freak: Trained martial artist and swimmer
+- Currently working on: autoBayesian
 
 
 
