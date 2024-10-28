@@ -6,7 +6,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def get_cpp_learning_topics():
     prompt = "Suggest 5 interesting topics to learn about C++ for a beginner to intermediate learner."
     response = openai.Completion.create(
-        engine="text-davinci-003",  # Or the latest model available to you
+        engine="gpt-3.5-turbo-instruct",  # Or the latest model available to you
         prompt=prompt,
         max_tokens=100
     )
