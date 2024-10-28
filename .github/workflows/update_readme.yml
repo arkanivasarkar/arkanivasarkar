@@ -17,7 +17,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install OpenAI SDK
-        run: pip install openai
+        run: pip install openai==0.28
 
       - name: Run Update Script
         env:
