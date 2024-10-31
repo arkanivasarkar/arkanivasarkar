@@ -18,6 +18,17 @@
 Welcome to my project! Here, I list suggested topics to learn about C++.
 
 <!--C++_TOPICS-->
+- **Project 1: Early Detection of Sepsis**
+- 
+- * **Objective:** To develop an AI model that can accurately predict sepsis onset within a short time frame.
+- * **Data:** Electronic health records (EHR) of patients with sepsis and non-sepsis controls.
+- * **Methods:** Use machine learning algorithms (e.g., random forests, support vector machines) to analyze temporal sequences of physiological variables, vital signs, and laboratory values. Train and evaluate the model using cross-validation techniques to ensure generalizability.
+- 
+- **Project 2: Personalized Treatment Recommendations for Cancer Patients**
+- 
+- * **Objective:** To develop an AI system that provides personalized treatment recommendations for cancer patients based on their individual tumor characteristics and genetic profiles.
+- * **Data:** Tumor sequencing data, clinical data, and treatment outcomes.
+- * **Methods:** Develop a knowledge graph to represent relationships between genes, diseases, treatments, and clinical outcomes. Use AI algorithms (e.g., graph neural networks) to learn these relationships and identify optimal treatment combinations for each patient. Integrate the system into an electronic medical record system for real-time decision support.
 <!--END_C++_TOPICS-->
 
 
