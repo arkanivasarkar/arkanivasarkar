@@ -1,23 +1,18 @@
-import openai
+import google.generativeai as genai
 import os
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+model = genai.GenerativeModel('gemini-pro')
 
-def get_cpp_learning_topics():
-    prompt = "Suggest 5 interesting topics to learn about C++ for a beginner to intermediate learner."
-    response = openai.Completion.create(
-        engine="gpt-3.5-turbo-instruct",  # Or the latest model available to you
-        prompt=prompt,
-        max_tokens=100
-    )
-    suggestions = response.choices[0].text.strip().split("\n")
-    return suggestions
 
-def format_topics(topics):
-    topics_text = "### Suggested C++ Topics to Learn\n\n"
+def prompt_GEMINI():
+    prompt = "Suggest 2 projects on AI in healthcare, with objective, data, and methods."
+    response =  model.generate_content(prompt)
+    topics = response.text.strip().split("\n")
+    output = ""
     for topic in topics:
-        topics_text += f"- {topic}\n"
-    return topics_text
+        output += f"- {topic}\n"
+    return output
 
 def update_readme(topics_text):
     with open("README.md", "r") as file:
@@ -33,6 +28,5 @@ def update_readme(topics_text):
         file.writelines(content)
 
 if __name__ == "__main__":
-    cpp_topics = get_cpp_learning_topics()
-    topics_text = format_topics(cpp_topics)
-    update_readme(topics_text)
+    response = prompt_GEMINI()
+    update_readme(response)
