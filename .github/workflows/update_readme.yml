@@ -1,8 +1,8 @@
-name: Update README with C++ Learning Topics
+name: Update README with Project Ideas
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+    - cron: "20 15 * * *"  # Runs daily at 3:12 PM UTC
 
 jobs:
   update-readme:
@@ -16,12 +16,12 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install OpenAI SDK
-        run: pip install openai==0.28
+      - name: Install GEMINI SDK
+        run: pip install google.generativeai
 
       - name: Run Update Script
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_readme.py
 
       - name: Commit Changes
