@@ -18,17 +18,31 @@
 Welcome to my project! Here, I list suggested topics to learn about C++.
 
 <!--C++_TOPICS-->
-- **Project 1: Early Detection of Sepsis**
+- **Project 1: AI-Powered Precision Medicine for Personalized Cancer Treatment**
 - 
-- * **Objective:** To develop an AI model that can accurately predict sepsis onset within a short time frame.
-- * **Data:** Electronic health records (EHR) of patients with sepsis and non-sepsis controls.
-- * **Methods:** Use machine learning algorithms (e.g., random forests, support vector machines) to analyze temporal sequences of physiological variables, vital signs, and laboratory values. Train and evaluate the model using cross-validation techniques to ensure generalizability.
+- **Objective:** Develop an AI system to analyze patient health data and genetic information to tailor cancer treatments for improved outcomes.
 - 
-- **Project 2: Personalized Treatment Recommendations for Cancer Patients**
+- **Data:**
+- * Electronic health records (EHRs) containing patient demographics, medical history, and treatment plans
+- * Genomic data including DNA sequencing and gene expression profiles
 - 
-- * **Objective:** To develop an AI system that provides personalized treatment recommendations for cancer patients based on their individual tumor characteristics and genetic profiles.
-- * **Data:** Tumor sequencing data, clinical data, and treatment outcomes.
-- * **Methods:** Develop a knowledge graph to represent relationships between genes, diseases, treatments, and clinical outcomes. Use AI algorithms (e.g., graph neural networks) to learn these relationships and identify optimal treatment combinations for each patient. Integrate the system into an electronic medical record system for real-time decision support.
+- **Methods:**
+- * Machine learning algorithms to identify patterns and correlations in patient data
+- * Deep learning models to extract insights from genomic data
+- * Natural language processing (NLP) to analyze clinical notes and identify relevant information
+- 
+- **Project 2: AI-Enabled Early Detection of Sepsis**
+- 
+- **Objective:** Create an AI system to detect sepsis early and accurately, reducing mortality and morbidity rates.
+- 
+- **Data:**
+- * EHRs containing patient vital signs, laboratory results, and medical events
+- * Sensor data from wearable devices such as heart rate monitors and respiratory sensors
+- 
+- **Methods:**
+- * Time series analysis to identify temporal patterns in patient data
+- * Deep learning models to learn complex relationships between different data sources
+- * Decision tree algorithms to predict the likelihood of sepsis based on the extracted features
 <!--END_C++_TOPICS-->
 
 
