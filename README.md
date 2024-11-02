@@ -18,35 +18,30 @@
 Welcome to my project! Here, I list suggested topics to learn about C++.
 
 <!--C++_TOPICS-->
-- **Project 1: Early Diagnosis of Sepsis**
+- **Project 1:** **Predicting Hospital Readmissions**
 - 
-- **Objective:** To develop an AI model that can accurately predict sepsis early on, based on patient data.
-- 
-- **Data:**
-- * Electronic health records (EHR) of patients with sepsis
-- * Data includes vital signs, laboratory results, medications, and clinical notes
-- 
-- **Methods:**
-- * Train a supervised machine learning model on the EHR data to identify patterns and features associated with sepsis
-- * Use feature engineering to extract relevant variables from the EHR data
-- * Optimize the model's performance using cross-validation and hyperparameter tuning
-- 
-- **Expected Outcome:** An AI model that can predict sepsis with high sensitivity and specificity, enabling early intervention and improved patient outcomes.
-- 
-- **Project 2: Personalized Cancer Treatment Planning**
-- 
-- **Objective:** To develop an AI system that can generate personalized cancer treatment plans based on the patient's tumor characteristics and clinical history.
+- **Objective:** Develop an AI model to predict which patients are at risk of being readmitted to the hospital within 30 days of discharge.
 - 
 - **Data:**
-- * Cancer genomic data (DNA sequencing, gene expression profiling)
-- * Clinical data (patient demographics, medical history, treatment outcomes)
+- * Electronic health records (EHRs) containing patient demographics, medical history, laboratory results, and discharge summaries.
 - 
 - **Methods:**
-- * Train a machine learning model to predict the response of cancer cells to different treatment regimens based on the genomic and clinical data
-- * Use optimization algorithms to generate personalized treatment plans that maximize the predicted probability of a positive outcome
-- * Integrate the AI system with a clinical decision support tool to assist oncologists in treatment planning
+- * Machine learning algorithms, such as logistic regression, support vector machines, or random forests.
+- * Features extracted from the EHRs, including patient age, comorbidities, length of stay, and discharge medications.
 - 
-- **Expected Outcome:** An AI system that can help physicians tailor cancer treatments to each patient's unique biological profile, leading to improved treatment outcomes and reduced side effects.
+- **Project 2:** **Personalizing Cancer Treatment Plans**
+- 
+- **Objective:** Develop an AI-driven system that generates personalized treatment plans for cancer patients based on their genetic and clinical data.
+- 
+- **Data:**
+- * Genomic data (e.g., whole-genome sequencing)
+- * Clinical data (e.g., tumor size, stage, histology)
+- * Treatment response data
+- 
+- **Methods:**
+- * Natural language processing (NLP) to extract relevant information from medical reports.
+- * Machine learning algorithms to build predictive models that identify treatment options most likely to be effective for each patient.
+- * Data visualization and exploration tools to enable clinicians to understand the model predictions and make informed decisions.
 <!--END_C++_TOPICS-->
 
 
