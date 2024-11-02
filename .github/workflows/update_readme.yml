@@ -2,7 +2,7 @@ name: Update README with Project Ideas
 
 on:
   schedule:
-    - cron: "20 15 * * *"  # Runs daily at 3:12 PM UTC
+    - cron: "55 17 * * *"  # Runs daily at 3:12 PM UTC
 
 jobs:
   update-readme:
@@ -14,10 +14,10 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: "3.x"
+          python-version: "3.8"
 
-      - name: Install GEMINI SDK
-        run: pip install google.generativeai
+      - name: Install Dependencies
+        run: pip install Pillow google-generativeai
 
       - name: Run Update Script
         env:
