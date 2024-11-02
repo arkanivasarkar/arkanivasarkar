@@ -12,7 +12,7 @@ def generate_tile(tileCount, text):
     # Create a 200x200 pixel image with RGBA mode for transparency
     image = Image.new("RGBA", (200, 200), (255, 192, 203, 128))  # Pink color with 50% opacity
     draw = ImageDraw.Draw(image)  # Initialize drawing context
-    font = ImageFont.truetype("arial.ttf", 16)  # Define the text and font 
+    font = ImageFont.load_default(16.0)  # Define the text and font 
 
     # Word wrap the text within a specified width
     wrapped_text = "\n".join(textwrap.fill(line, width=15) for line in textwrap.wrap(text, width=15))
