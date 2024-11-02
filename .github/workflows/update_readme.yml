@@ -2,7 +2,7 @@ name: Update README with Project Ideas
 
 on:
   schedule:
-    - cron: "55 17 * * *"  # Runs daily at 3:12 PM UTC
+    - cron: "45 19 * * *"  # Runs daily at 3:12 PM UTC
 
 jobs:
   update-readme:
@@ -14,7 +14,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: "3.8"
+          python-version: "3.x"
 
       - name: Install Dependencies
         run: pip install Pillow google-generativeai
