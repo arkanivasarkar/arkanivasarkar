@@ -18,31 +18,35 @@
 Welcome to my project! Here, I list suggested topics to learn about C++.
 
 <!--C++_TOPICS-->
-- **Project 1: AI-Powered Precision Medicine for Personalized Cancer Treatment**
+- **Project 1: Early Diagnosis of Sepsis**
 - 
-- **Objective:** Develop an AI system to analyze patient health data and genetic information to tailor cancer treatments for improved outcomes.
-- 
-- **Data:**
-- * Electronic health records (EHRs) containing patient demographics, medical history, and treatment plans
-- * Genomic data including DNA sequencing and gene expression profiles
-- 
-- **Methods:**
-- * Machine learning algorithms to identify patterns and correlations in patient data
-- * Deep learning models to extract insights from genomic data
-- * Natural language processing (NLP) to analyze clinical notes and identify relevant information
-- 
-- **Project 2: AI-Enabled Early Detection of Sepsis**
-- 
-- **Objective:** Create an AI system to detect sepsis early and accurately, reducing mortality and morbidity rates.
+- **Objective:** To develop an AI model that can accurately predict sepsis early on, based on patient data.
 - 
 - **Data:**
-- * EHRs containing patient vital signs, laboratory results, and medical events
-- * Sensor data from wearable devices such as heart rate monitors and respiratory sensors
+- * Electronic health records (EHR) of patients with sepsis
+- * Data includes vital signs, laboratory results, medications, and clinical notes
 - 
 - **Methods:**
-- * Time series analysis to identify temporal patterns in patient data
-- * Deep learning models to learn complex relationships between different data sources
-- * Decision tree algorithms to predict the likelihood of sepsis based on the extracted features
+- * Train a supervised machine learning model on the EHR data to identify patterns and features associated with sepsis
+- * Use feature engineering to extract relevant variables from the EHR data
+- * Optimize the model's performance using cross-validation and hyperparameter tuning
+- 
+- **Expected Outcome:** An AI model that can predict sepsis with high sensitivity and specificity, enabling early intervention and improved patient outcomes.
+- 
+- **Project 2: Personalized Cancer Treatment Planning**
+- 
+- **Objective:** To develop an AI system that can generate personalized cancer treatment plans based on the patient's tumor characteristics and clinical history.
+- 
+- **Data:**
+- * Cancer genomic data (DNA sequencing, gene expression profiling)
+- * Clinical data (patient demographics, medical history, treatment outcomes)
+- 
+- **Methods:**
+- * Train a machine learning model to predict the response of cancer cells to different treatment regimens based on the genomic and clinical data
+- * Use optimization algorithms to generate personalized treatment plans that maximize the predicted probability of a positive outcome
+- * Integrate the AI system with a clinical decision support tool to assist oncologists in treatment planning
+- 
+- **Expected Outcome:** An AI system that can help physicians tailor cancer treatments to each patient's unique biological profile, leading to improved treatment outcomes and reduced side effects.
 <!--END_C++_TOPICS-->
 
 
