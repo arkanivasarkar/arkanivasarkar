@@ -2,7 +2,7 @@ name: Update README with Project Ideas
 
 on:
   schedule:
-    - cron: "45 19 * * *"  # Runs daily at 3:12 PM UTC
+    - cron: "15 21 * * *"  # Runs daily at 3:12 PM UTC
 
 jobs:
   update-readme:
