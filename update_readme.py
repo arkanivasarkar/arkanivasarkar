@@ -30,7 +30,7 @@ def generate_tile(tileCount, text):
     mask_draw.rounded_rectangle((0, 0, 200, 200), radius=corner_radius, fill=255)
     rounded_image = ImageOps.fit(image, (200, 200), centering=(0.5, 0.5))
     rounded_image.putalpha(mask)
-    rounded_image.save(f"resources/image{str(tileCount)}.png")
+    rounded_image.save(f"./resources/image{str(tileCount)}.png")
 
 
 def prompt_GEMINI():
