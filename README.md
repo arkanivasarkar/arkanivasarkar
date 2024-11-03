@@ -18,32 +18,8 @@
 Welcome to my project! Here, I list suggested topics to learn about C++.
 
 <!--C++_TOPICS-->
-- **Project 1:**
-- 
-- * **Objective:** Develop an AI-powered system for early detection and diagnosis of Alzheimer's disease.
-- 
-- * **Data:**
--     * Medical records of patients with and without Alzheimer's disease
--     * Cognitive assessments, behavioral data, and neuroimaging scans
-- 
-- * **Methods:**
--     * Machine learning algorithms (e.g., deep learning, support vector machines)
--     * Feature extraction from multimodal data
--     * Model training and evaluation
-- 
-- **Project 2:**
-- 
-- * **Objective:** Create an AI-based personalized treatment planning system for cancer patients.
-- 
-- * **Data:**
--     * Patient demographics, medical history, cancer type and stage
--     * Treatment outcomes, genetic data, and molecular profiles
-- 
-- * **Methods:**
--     * Advanced statistical modeling
--     * Machine learning models to predict treatment response
--     * Optimization algorithms to generate personalized treatment plans
--     * Clinical trials to validate and refine the system
+- 1. AI-Powered Personalized Cancer Treatment Optimization
+- 2. AI-Enabled Medical Imaging Analysis for Early Disease Detection
 <!--END_C++_TOPICS-->
 
 
