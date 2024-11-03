@@ -34,7 +34,7 @@ def generate_tile(tileCount, text):
 
 
 def prompt_GEMINI():
-    prompt = "Suggest 2 projects on AI in healthcare, with objective, data, and methods."
+    prompt = "Suggest 2 projects on AI in healthcare and medicines. Only the project titles."
     response =  model.generate_content(prompt)
     topics = response.text.strip().split("\n")
     for i,item in enumerate(topics):
