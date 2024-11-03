@@ -26,7 +26,7 @@ Welcome to my project! Here, I list suggested topics to learn about C++.
 
 
 <br />
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkanivasarkar&show_icons=true&locale=en&layout=compact" alt="arkanivasarkar" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkanivasarkar&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="arkanivasarkar" /></p>
 
 ### Languages and Tools:
 
