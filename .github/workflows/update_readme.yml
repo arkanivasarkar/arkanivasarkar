@@ -2,7 +2,7 @@ name: Update README with Project Ideas
 
 on:
   schedule:
-    - cron: "15 21 * * *"  # Runs daily at 3:12 PM UTC
+    - cron: "55 12 * * *"  # Runs daily at 3:12 PM UTC
 
 jobs:
   update-readme:
@@ -28,6 +28,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add resources/random_image_*.png
           git add README.md
           git commit -m "Update C++ learning topics in README" || echo "No changes to commit"
           git push
