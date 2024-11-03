@@ -18,30 +18,32 @@
 Welcome to my project! Here, I list suggested topics to learn about C++.
 
 <!--C++_TOPICS-->
-- **Project 1:** **Predicting Hospital Readmissions**
+- **Project 1:**
 - 
-- **Objective:** Develop an AI model to predict which patients are at risk of being readmitted to the hospital within 30 days of discharge.
+- * **Objective:** Develop an AI-powered system for early detection and diagnosis of Alzheimer's disease.
 - 
-- **Data:**
-- * Electronic health records (EHRs) containing patient demographics, medical history, laboratory results, and discharge summaries.
+- * **Data:**
+-     * Medical records of patients with and without Alzheimer's disease
+-     * Cognitive assessments, behavioral data, and neuroimaging scans
 - 
-- **Methods:**
-- * Machine learning algorithms, such as logistic regression, support vector machines, or random forests.
-- * Features extracted from the EHRs, including patient age, comorbidities, length of stay, and discharge medications.
+- * **Methods:**
+-     * Machine learning algorithms (e.g., deep learning, support vector machines)
+-     * Feature extraction from multimodal data
+-     * Model training and evaluation
 - 
-- **Project 2:** **Personalizing Cancer Treatment Plans**
+- **Project 2:**
 - 
-- **Objective:** Develop an AI-driven system that generates personalized treatment plans for cancer patients based on their genetic and clinical data.
+- * **Objective:** Create an AI-based personalized treatment planning system for cancer patients.
 - 
-- **Data:**
-- * Genomic data (e.g., whole-genome sequencing)
-- * Clinical data (e.g., tumor size, stage, histology)
-- * Treatment response data
+- * **Data:**
+-     * Patient demographics, medical history, cancer type and stage
+-     * Treatment outcomes, genetic data, and molecular profiles
 - 
-- **Methods:**
-- * Natural language processing (NLP) to extract relevant information from medical reports.
-- * Machine learning algorithms to build predictive models that identify treatment options most likely to be effective for each patient.
-- * Data visualization and exploration tools to enable clinicians to understand the model predictions and make informed decisions.
+- * **Methods:**
+-     * Advanced statistical modeling
+-     * Machine learning models to predict treatment response
+-     * Optimization algorithms to generate personalized treatment plans
+-     * Clinical trials to validate and refine the system
 <!--END_C++_TOPICS-->
 
 
