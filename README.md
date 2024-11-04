@@ -15,8 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. AI-Powered Personalized Cancer Treatment Optimization
-- 2. AI-Enabled Medical Imaging Analysis for Early Disease Detection
+- 1. AI-Driven Diagnosis and Treatment Personalization
+- 2. Machine Learning for Precision Drug Discovery
 <!--END_C++_TOPICS-->
 
 
