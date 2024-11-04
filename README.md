@@ -13,10 +13,7 @@
 - Currently working on: autoBayesian
 
 
-# My GitHub Project
-
-Welcome to my project! Here, I list suggested topics to learn about C++.
-
+### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
 - 1. AI-Powered Personalized Cancer Treatment Optimization
 - 2. AI-Enabled Medical Imaging Analysis for Early Disease Detection
