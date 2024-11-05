@@ -15,8 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. AI-Driven Diagnosis and Treatment Personalization
-- 2. Machine Learning for Precision Drug Discovery
+- 1. AI-Powered Personalized Medicine for Precision Cancer Treatment
+- 2. AI-Enabled Drug Discovery and Development for Chronic Diseases
 <!--END_C++_TOPICS-->
 
 
