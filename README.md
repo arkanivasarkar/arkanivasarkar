@@ -15,8 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. AI-Powered Disease Diagnosis and Treatment Assistant
-- 2. Personalized Medicine through Machine Learning and Predictive Analytics
+- 1. AI-Powered Precision Medicine for Personalized Cancer Treatment
+- 2. Deep Learning for Early Diagnosis and Prognosis of Rare Diseases
 <!--END_C++_TOPICS-->
 
 
