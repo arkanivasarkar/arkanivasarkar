@@ -16,7 +16,7 @@
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
 - 1. AI-Powered Precision Medicine for Personalized Cancer Treatment
-- 2. Deep Learning for Early Diagnosis and Prognosis of Rare Diseases
+- 2. Automated Drug Discovery and Development through Deep Learning
 <!--END_C++_TOPICS-->
 
 
