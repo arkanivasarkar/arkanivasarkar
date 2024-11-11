@@ -15,8 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. AI-Powered Personalized Treatment Planning for Cancer Patients
-- 2. AI-Enabled Drug Discovery and Development Accelerator
+- 1. AI-Powered Diagnostic Tool for Early Detection of Cancer
+- 2. Personalized Drug Therapy Optimization with AI-Enhanced Predictive Modeling
 <!--END_C++_TOPICS-->
 
 
