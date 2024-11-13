@@ -15,8 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. AI-Powered Personalized Cancer Treatment Planning
-- 2. Deep Learning for Drug Discovery and Optimization
+- **AI in Surgery:**
+- 
+- * **AI-Assisted Precision Surgery for Complex Tumor Removal**
+- 
+- **AI in Diagnosis:**
+- 
+- * **Deep Learning for Early Detection of Rare Diseases in Healthcare Records**
 <!--END_C++_TOPICS-->
 
 
