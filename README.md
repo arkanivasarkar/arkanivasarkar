@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
-- 
-- * **AI-Assisted Precision Surgery for Complex Tumor Removal**
-- 
 - **AI in Diagnosis:**
 - 
-- * **Deep Learning for Early Detection of Rare Diseases in Healthcare Records**
+- * **AI-Driven Personalized Cancer Diagnosis and Treatment Prediction**
+- 
+- **AI in Biology:**
+- 
+- * **AI for Deciphering the Genetic Landscape of Complex Diseases**
 <!--END_C++_TOPICS-->
 
 
