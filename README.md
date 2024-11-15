@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis:**
+- **AI in Surgery:**
 - 
-- * **AI-Driven Personalized Cancer Diagnosis and Treatment Prediction**
+- * **Automated Tissue Classification for Surgical Orientation**
 - 
 - **AI in Biology:**
 - 
-- * **AI for Deciphering the Genetic Landscape of Complex Diseases**
+- * **Artificial Intelligence-Powered Discovery of Novel Biomarkers for Precision Medicine**
 <!--END_C++_TOPICS-->
 
 
