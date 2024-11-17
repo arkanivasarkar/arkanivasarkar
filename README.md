@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Assisted Precision Surgery: Development of an Autonomous Surgical Robot for Minimally Invasive Procedures**
+- **AI in Surgery:**
 - 
-- **2. AI-Driven Genetic Risk Assessment: Predicting Disease Susceptibility Through Personalized Genome Analysis**
+- * **Computer-Assisted Robotic Surgery for Precision and Accuracy**
+- 
+- **AI in Genetics:**
+- 
+- * **Machine Learning for Personalized Genomic Analysis and Diagnosis**
 <!--END_C++_TOPICS-->
 
 
