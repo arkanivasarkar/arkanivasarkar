@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare:**
+- **1. AI-Enhanced Surgical Trajectory Optimization for Minimally Invasive Interventions**
 - 
-- * **Predictive Analytics for Personalized Patient Care:** Develop an AI algorithm that analyzes patient data to predict health outcomes, identify potential risks, and tailor treatment plans.
-- 
-- **AI in Diagnosis:**
-- 
-- * **Computer-Aided Diagnosis of Rare Diseases:** Design an AI system that automates the analysis of complex medical images to diagnose rare and challenging diseases with improved accuracy and efficiency.
+- **2. Genetic Variant Interpretation and Risk Assessment Using Deep Learning in Precision Medicine**
 <!--END_C++_TOPICS-->
 
 
