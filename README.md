@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Enhanced Surgical Trajectory Optimization for Minimally Invasive Interventions**
+- **AI in Surgery**
 - 
-- **2. Genetic Variant Interpretation and Risk Assessment Using Deep Learning in Precision Medicine**
+- * Autonomous Surgical Robot with AI-Powered Vision and Haptic Feedback
+- 
+- **AI in Diagnosis**
+- 
+- * AI-Enabled Diagnostic Assistant for Early Detection of Rare Diseases
 <!--END_C++_TOPICS-->
 
 
