@@ -15,13 +15,15 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
+- **AI in Healthcare**
+- 
+- * **Project Title:** AI-Enabled Early Detection System for Chronic Diseases
+- * **Project Title:** AI-Powered Virtual Healthcare Assistant for Remote Patient Monitoring and Triage
+- 
 - **AI in Surgery**
 - 
-- * Autonomous Surgical Robot with AI-Powered Vision and Haptic Feedback
-- 
-- **AI in Diagnosis**
-- 
-- * AI-Enabled Diagnostic Assistant for Early Detection of Rare Diseases
+- * **Project Title:** AI-Assisted Surgical Planning and Navigation for Minimally Invasive Procedures
+- * **Project Title:** AI-Enhanced Robotic Surgical System for Precision and Efficiency
 <!--END_C++_TOPICS-->
 
 
