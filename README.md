@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
+- **1. Artificial Intelligence-Driven Precision Surgery for Minimizing Surgical Complications**
 - 
-- * **Project Title 1:** Robotic Precision Surgery with Augmented Reality Guidance for Enhanced Accuracy and Tissue Preservation
-- 
-- **AI in Diagnosis**
-- 
-- * **Project Title 2:** Development of an AI-Powered Diagnostic System for Early Detection and Monitoring of Alzheimer's Disease
+- **2. Leveraging Generative Adversarial Networks for Enhancing Early Disease Diagnosis in Underserved Communities**
 <!--END_C++_TOPICS-->
 
 
