@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. Artificial Intelligence-Driven Precision Surgery for Minimizing Surgical Complications**
+- **AI in Healthcare**
 - 
-- **2. Leveraging Generative Adversarial Networks for Enhancing Early Disease Diagnosis in Underserved Communities**
+- * **Project Title:** Developing an AI-Powered Telemedicine System for Remote Patient Monitoring and Diagnosis
+- 
+- **AI in Diagnosis**
+- 
+- * **Project Title:** Utilizing Deep Learning to Enhance Accuracy and Timeliness of Histopathology Analysis for Early Cancer Detection
 <!--END_C++_TOPICS-->
 
 
