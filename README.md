@@ -16,12 +16,10 @@
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
 - **AI in Healthcare**
+- - **Project Title:** Development of an AI-powered Personalized Digital Health Assistant for Chronic Disease Management and Prevention
 - 
-- * **Project Title:** Developing an AI-Powered Telemedicine System for Remote Patient Monitoring and Diagnosis
-- 
-- **AI in Diagnosis**
-- 
-- * **Project Title:** Utilizing Deep Learning to Enhance Accuracy and Timeliness of Histopathology Analysis for Early Cancer Detection
+- **AI in Surgery**
+- - **Project Title:** Surgical Planning and Risk Assessment Tool Utilizing AI-Enabled Computer Vision for Minimally Invasive Procedures
 <!--END_C++_TOPICS-->
 
 
