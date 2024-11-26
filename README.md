@@ -15,11 +15,15 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
-- - **Project Title:** Development of an AI-powered Personalized Digital Health Assistant for Chronic Disease Management and Prevention
+- **AI in Diagnosis**
+- 
+- * **Project Title:** Automated Diagnosis and Prediction of COVID-19 Severity Using Multimodal AI
+- * **Project Title:** AI-Enabled Remote Eye Disease Diagnosis in Underserved Communities
 - 
 - **AI in Surgery**
-- - **Project Title:** Surgical Planning and Risk Assessment Tool Utilizing AI-Enabled Computer Vision for Minimally Invasive Procedures
+- 
+- * **Project Title:** Development of an AI-Assisted Platform for Minimally Invasive Robotic Surgery
+- * **Project Title:** AI-Based Real-Time Surgical Navigation and Guidance System
 <!--END_C++_TOPICS-->
 
 
