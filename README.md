@@ -15,15 +15,11 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
-- 
-- * **Project Title:** Automated Diagnosis and Prediction of COVID-19 Severity Using Multimodal AI
-- * **Project Title:** AI-Enabled Remote Eye Disease Diagnosis in Underserved Communities
-- 
 - **AI in Surgery**
+- * **Robotic-Assisted Precision Surgery Guided by AI-Powered Intraoperative Imaging**
 - 
-- * **Project Title:** Development of an AI-Assisted Platform for Minimally Invasive Robotic Surgery
-- * **Project Title:** AI-Based Real-Time Surgical Navigation and Guidance System
+- **AI in Diagnosis**
+- * **Synergy of AI and Wearables for Early Detection and Prediction of Cardiovascular Events**
 <!--END_C++_TOPICS-->
 
 
