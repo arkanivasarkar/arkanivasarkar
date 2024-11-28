@@ -15,11 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
-- * **Robotic-Assisted Precision Surgery Guided by AI-Powered Intraoperative Imaging**
+- **AI in Diagnosis:**
 - 
-- **AI in Diagnosis**
-- * **Synergy of AI and Wearables for Early Detection and Prediction of Cardiovascular Events**
+- * **Automated Detection of Alzheimer's Disease Using Deep Learning Analysis of Brain Scans**
+- 
+- **AI in Surgery:**
+- 
+- * **Robotic-Assisted Surgical Precision Enhancement with AI-Powered Vision Recognition**
 <!--END_C++_TOPICS-->
 
 
