@@ -15,11 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
-- 1. Automated Surgical Instrument Positioning and Guidance System for Minimally Invasive Procedures
+- **AI in Surgery:**
 - 
-- **AI in Diagnosis**
-- 2. Deep Learning-Based Image Analysis for Early Detection and Classification of Alzheimer's Disease
+- * **Real-Time Intraoperative 3D Visualization and Guidance for Complex Surgical Procedures**
+- 
+- **AI in Diagnosis:**
+- 
+- * **Automated Breast Cancer Detection and Classification using Deep Convolutional Neural Networks**
 <!--END_C++_TOPICS-->
 
 
