@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **AI in Surgery**
 - 
-- * **Real-Time Intraoperative 3D Visualization and Guidance for Complex Surgical Procedures**
+- * **AI-Assisted Surgical Planning and Simulation for Complex Procedures**
 - 
-- **AI in Diagnosis:**
+- **AI in Genetics**
 - 
-- * **Automated Breast Cancer Detection and Classification using Deep Convolutional Neural Networks**
+- * **AI for Precision Medicine: Personalized Treatment Recommendations Based on Genetic Profiles**
 <!--END_C++_TOPICS-->
 
 
