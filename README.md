@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
+- **Project Title 1:**
 - 
-- * **AI-Assisted Surgical Planning and Simulation for Complex Procedures**
+- * **Adaptive Machine Learning for Personalized Cancer Diagnosis and Treatment**
 - 
-- **AI in Genetics**
+- **Project Title 2:**
 - 
-- * **AI for Precision Medicine: Personalized Treatment Recommendations Based on Genetic Profiles**
+- * **AI-Assisted Robotic Surgery for Enhanced Precision and Efficiency in Orthopedic Procedures**
 <!--END_C++_TOPICS-->
 
 
