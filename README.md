@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **Project Title 1:**
+- **1. AI-Enabled Personalized Healthcare for Chronic Conditions**
 - 
-- * **Adaptive Machine Learning for Personalized Cancer Diagnosis and Treatment**
-- 
-- **Project Title 2:**
-- 
-- * **AI-Assisted Robotic Surgery for Enhanced Precision and Efficiency in Orthopedic Procedures**
+- **2. AI-Assisted Tumor Detection and Diagnosis in Surgical Procedures**
 <!--END_C++_TOPICS-->
 
 
