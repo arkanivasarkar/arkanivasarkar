@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Enabled Personalized Healthcare for Chronic Conditions**
+- **AI in Surgery:**
 - 
-- **2. AI-Assisted Tumor Detection and Diagnosis in Surgical Procedures**
+- * **AI-Assisted Minimally Invasive Surgery for Improved Precision and Efficiency**
+- 
+- **AI in Genetics:**
+- 
+- * **Development of an AI-Powered Precision Medicine Tool for Optimizing Personalized Cancer Therapies**
 <!--END_C++_TOPICS-->
 
 
