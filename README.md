@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
+- **AI in Diagnosis:**
+- 
+- * **AI-powered Diagnostic Assistant for Early Detection of Neurological Disorders:** Develop an AI system that uses advanced image processing and machine learning algorithms to analyze medical scans and detect early signs of neurological disorders, such as Alzheimer's disease or Parkinson's disease, before symptoms manifest.
+- 
 - **AI in Surgery:**
 - 
-- * **AI-Assisted Minimally Invasive Surgery for Improved Precision and Efficiency**
-- 
-- **AI in Genetics:**
-- 
-- * **Development of an AI-Powered Precision Medicine Tool for Optimizing Personalized Cancer Therapies**
+- * **AI-enabled Robotic System for Minimally Invasive Surgery:** Create an AI-driven robotic system that assists surgeons during minimally invasive surgeries by providing precise guidance, monitoring patient vitals, and executing delicate procedures with enhanced accuracy and efficiency.
 <!--END_C++_TOPICS-->
 
 
