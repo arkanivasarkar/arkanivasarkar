@@ -15,13 +15,11 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis:**
+- **AI in Diagnosis**
+- 1. Project Title: Automated Medical Image Analysis for Disease Detection and Diagnosis
 - 
-- * **AI-powered Diagnostic Assistant for Early Detection of Neurological Disorders:** Develop an AI system that uses advanced image processing and machine learning algorithms to analyze medical scans and detect early signs of neurological disorders, such as Alzheimer's disease or Parkinson's disease, before symptoms manifest.
-- 
-- **AI in Surgery:**
-- 
-- * **AI-enabled Robotic System for Minimally Invasive Surgery:** Create an AI-driven robotic system that assists surgeons during minimally invasive surgeries by providing precise guidance, monitoring patient vitals, and executing delicate procedures with enhanced accuracy and efficiency.
+- **AI in Genetics**
+- 2. Project Title: Personalized Medicine through AI-Based Genetic Variant Prediction and Interpretation
 <!--END_C++_TOPICS-->
 
 
