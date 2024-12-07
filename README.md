@@ -15,11 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
-- 1. Project Title: Automated Medical Image Analysis for Disease Detection and Diagnosis
+- **AI in Healthcare**
 - 
-- **AI in Genetics**
-- 2. Project Title: Personalized Medicine through AI-Based Genetic Variant Prediction and Interpretation
+- * **Project 1:** Development of a Real-Time AI-Powered Medical Decision Support System to Improve Patient Outcomes
+- 
+- **AI in Surgery**
+- 
+- * **Project 2:** Integration of Augmented Reality and AI for Precision-Guided Robotic Surgery
 <!--END_C++_TOPICS-->
 
 
