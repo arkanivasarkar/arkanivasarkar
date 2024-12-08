@@ -15,13 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
-- 
-- * **Project 1:** Development of a Real-Time AI-Powered Medical Decision Support System to Improve Patient Outcomes
-- 
-- **AI in Surgery**
-- 
-- * **Project 2:** Integration of Augmented Reality and AI for Precision-Guided Robotic Surgery
+- 1. **AI-Enabled Surgical Assistant for Precise and Real-Time Intraoperative Decision-Making**
+- 2. **Deep Learning Algorithms for Non-Invasive Biomarker Discovery in Cancer Diagnostics**
 <!--END_C++_TOPICS-->
 
 
