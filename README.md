@@ -15,8 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. **AI-Enabled Surgical Assistant for Precise and Real-Time Intraoperative Decision-Making**
-- 2. **Deep Learning Algorithms for Non-Invasive Biomarker Discovery in Cancer Diagnostics**
+- **AI in Surgery:**
+- 
+- 1. Development of an AI-Assisted Robotic Surgical System for Minimally Invasive Procedures
+- 
+- **AI in Diagnosis:**
+- 
+- 2. Design and Implementation of a Deep Learning Model for Early Diagnosis of Alzheimer's Disease from Brain Scans
 <!--END_C++_TOPICS-->
 
 
