@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **AI in Healthcare**
 - 
-- 1. Development of an AI-Assisted Robotic Surgical System for Minimally Invasive Procedures
+- * **AI-Enabled Precision Medicine for Personalized Treatment Planning**
 - 
-- **AI in Diagnosis:**
+- **AI in Surgery**
 - 
-- 2. Design and Implementation of a Deep Learning Model for Early Diagnosis of Alzheimer's Disease from Brain Scans
+- * **Computer-Assisted Robotic Surgery with AI-Powered Real-Time Tissue Recognition and Surgical Guidance**
 <!--END_C++_TOPICS-->
 
 
