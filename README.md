@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
-- 
-- * **AI-Enabled Precision Medicine for Personalized Treatment Planning**
-- 
 - **AI in Surgery**
 - 
-- * **Computer-Assisted Robotic Surgery with AI-Powered Real-Time Tissue Recognition and Surgical Guidance**
+- * **Surgical Skill Assessment and Training with AI-Enabled Virtual Reality**
+- 
+- **AI in Genetics**
+- 
+- * **Personalized Genetic Risk Prediction for Rare Variants Using Deep Learning**
 <!--END_C++_TOPICS-->
 
 
