@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
+- **AI in Healthcare:**
 - 
-- * **Surgical Skill Assessment and Training with AI-Enabled Virtual Reality**
+- * **Project Title:** Development of an AI-Powered Personalized Treatment Plan Recommendation System for Chronic Diseases
 - 
-- **AI in Genetics**
+- **AI in Surgery:**
 - 
-- * **Personalized Genetic Risk Prediction for Rare Variants Using Deep Learning**
+- * **Project Title:** Design and Implementation of an AI-Assisted Robotic Surgery System for Minimally Invasive Procedures
 <!--END_C++_TOPICS-->
 
 
