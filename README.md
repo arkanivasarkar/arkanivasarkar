@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare:**
+- **Project 1: AI-Powered Non-Invasive Diagnosis of Alzheimer's Disease Using Real-Time Brainwave Analysis**
 - 
-- * **Project Title:** Development of an AI-Powered Personalized Treatment Plan Recommendation System for Chronic Diseases
-- 
-- **AI in Surgery:**
-- 
-- * **Project Title:** Design and Implementation of an AI-Assisted Robotic Surgery System for Minimally Invasive Procedures
+- **Project 2: AI-Assisted Surgical Planning for Complex Pelvic Surgeries to Reduce Intraoperative Complications**
 <!--END_C++_TOPICS-->
 
 
