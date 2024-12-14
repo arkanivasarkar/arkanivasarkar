@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **Project 1: AI-Powered Non-Invasive Diagnosis of Alzheimer's Disease Using Real-Time Brainwave Analysis**
+- **Project Title 1:**
 - 
-- **Project 2: AI-Assisted Surgical Planning for Complex Pelvic Surgeries to Reduce Intraoperative Complications**
+- **AI-Enabled Surgical Navigation System for Minimally Invasive Procedures**
+- 
+- **Project Title 2:**
+- 
+- **Genomic Analysis and Interpretation Platform for Precision Medicine Using Artificial Intelligence**
 <!--END_C++_TOPICS-->
 
 
