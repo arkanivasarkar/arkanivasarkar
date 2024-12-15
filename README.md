@@ -15,13 +15,11 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **Project Title 1:**
+- **AI in Healthcare**
+- * **Development of a Personalized AI-Powered Treatment Plan Generator for Chronic Diseases**
 - 
-- **AI-Enabled Surgical Navigation System for Minimally Invasive Procedures**
-- 
-- **Project Title 2:**
-- 
-- **Genomic Analysis and Interpretation Platform for Precision Medicine Using Artificial Intelligence**
+- **AI in Biology**
+- * **AI-Assisted High-Throughput Screening for Novel Drug Targets in Cancer Research**
 <!--END_C++_TOPICS-->
 
 
