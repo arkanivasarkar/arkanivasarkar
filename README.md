@@ -15,11 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
-- * **Development of a Personalized AI-Powered Treatment Plan Generator for Chronic Diseases**
+- **AI in Surgery:**
 - 
-- **AI in Biology**
-- * **AI-Assisted High-Throughput Screening for Novel Drug Targets in Cancer Research**
+- * **AI-Assisted Surgical Planning and Navigation for Complex Orthopedic Procedures**
+- 
+- **AI in Genetics:**
+- 
+- * **AI-Driven Clinical Interpretation of Genomic Variants for Precision Medicine**
 <!--END_C++_TOPICS-->
 
 
