@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **AI in Surgery**
 - 
-- * **AI-Assisted Surgical Planning and Navigation for Complex Orthopedic Procedures**
+- * **Automated Surgical Planning and Execution**
 - 
-- **AI in Genetics:**
+- **AI in Biology**
 - 
-- * **AI-Driven Clinical Interpretation of Genomic Variants for Precision Medicine**
+- * **Computational Modeling of Complex Biological Processes**
 <!--END_C++_TOPICS-->
 
 
