@@ -15,13 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
-- 
-- * **Automated Surgical Planning and Execution**
-- 
-- **AI in Biology**
-- 
-- * **Computational Modeling of Complex Biological Processes**
+- 1. **AI-Driven Robotic Surgery Assistant for Precision Interventional Procedures**
+- 2. **Deep Learning-Based Genetic Variant Interpretation for Precision Medicine**
 <!--END_C++_TOPICS-->
 
 
