@@ -15,8 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. **AI-Driven Robotic Surgery Assistant for Precision Interventional Procedures**
-- 2. **Deep Learning-Based Genetic Variant Interpretation for Precision Medicine**
+- **AI in Diagnosis**
+- 
+- * **AI-Powered Cancer Detection System**
+- 
+- **AI in Genetics**
+- 
+- * **Predictive Genetic Testing for Rare Diseases**
 <!--END_C++_TOPICS-->
 
 
