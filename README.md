@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
+- **AI in Surgery**
 - 
-- * **AI-Powered Cancer Detection System**
+- 1. **Intelligent Surgical Assistant for Minimally Invasive Procedures**
 - 
 - **AI in Genetics**
 - 
-- * **Predictive Genetic Testing for Rare Diseases**
+- 2. **Personalized Cancer Treatment Prediction Using Multimodal AI**
 <!--END_C++_TOPICS-->
 
 
