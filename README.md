@@ -15,13 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
-- 
-- 1. **Intelligent Surgical Assistant for Minimally Invasive Procedures**
-- 
-- **AI in Genetics**
-- 
-- 2. **Personalized Cancer Treatment Prediction Using Multimodal AI**
+- 1. **AI-Driven Precision Surgery: Optimizing Surgical Procedures for Patient Outcomes**
+- 2. **Deep Learning for Genetic Variant Interpretation: Unraveling the Complexity of Human Genomes for Personalized Medicine**
 <!--END_C++_TOPICS-->
 
 
