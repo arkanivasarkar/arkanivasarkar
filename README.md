@@ -15,8 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. **AI-Driven Precision Surgery: Optimizing Surgical Procedures for Patient Outcomes**
-- 2. **Deep Learning for Genetic Variant Interpretation: Unraveling the Complexity of Human Genomes for Personalized Medicine**
+- **1. AI-Driven Minimally Invasive Surgical Robot for Enhanced Precision and Accuracy**
+- 
+- **2. Genetico-Genomic Risk Assessment through AI-Powered Predictive Modeling for Personalized Healthcare**
 <!--END_C++_TOPICS-->
 
 
