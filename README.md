@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Driven Minimally Invasive Surgical Robot for Enhanced Precision and Accuracy**
+- **AI in Diagnosis**
 - 
-- **2. Genetico-Genomic Risk Assessment through AI-Powered Predictive Modeling for Personalized Healthcare**
+- * **AI-Powered Personalized Cancer Diagnostics for Precision Treatment**
+- 
+- **AI in Biology**
+- 
+- * **AI for Unlocking the Secrets of the Human Proteome: Discovery of Novel Therapeutic Targets**
 <!--END_C++_TOPICS-->
 
 
