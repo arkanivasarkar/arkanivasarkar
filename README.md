@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
+- **AI in Surgery:**
 - 
-- * **AI-Powered Personalized Cancer Diagnostics for Precision Treatment**
+- * **Minimally Invasive Robotic Surgery Guided by AI-Powered 3D Tissue Mapping**
 - 
-- **AI in Biology**
+- **AI in Genetics:**
 - 
-- * **AI for Unlocking the Secrets of the Human Proteome: Discovery of Novel Therapeutic Targets**
+- * **AI-Driven Precision Medicine: Personalized Cancer Treatment through Genetic Variant Analysis**
 <!--END_C++_TOPICS-->
 
 
