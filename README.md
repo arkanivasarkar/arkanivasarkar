@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **AI in Diagnosis**
 - 
-- * **Minimally Invasive Robotic Surgery Guided by AI-Powered 3D Tissue Mapping**
+- * **AI-Powered Early Cancer Detection System**
 - 
-- **AI in Genetics:**
+- **AI in Surgery**
 - 
-- * **AI-Driven Precision Medicine: Personalized Cancer Treatment through Genetic Variant Analysis**
+- * **Autonomous Surgical Robot with Enhanced Intraoperative Decision-Making**
 <!--END_C++_TOPICS-->
 
 
