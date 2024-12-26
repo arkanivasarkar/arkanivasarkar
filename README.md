@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
-- 
-- * **AI-Powered Early Cancer Detection System**
-- 
 - **AI in Surgery**
 - 
-- * **Autonomous Surgical Robot with Enhanced Intraoperative Decision-Making**
+- 1. **Intraoperative AI-Assisted Robotic Surgery for Complex Procedures**
+- 
+- **AI in Diagnosis**
+- 
+- 2. **Semi-Supervised Machine Learning for Early Detection of Rare Diseases in Resource-Constrained Settings**
 <!--END_C++_TOPICS-->
 
 
