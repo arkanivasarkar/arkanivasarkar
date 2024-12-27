@@ -17,11 +17,11 @@
 <!--C++_TOPICS-->
 - **AI in Surgery**
 - 
-- 1. **Intraoperative AI-Assisted Robotic Surgery for Complex Procedures**
+- * **AI-Assisted Surgical Planning and Navigation:** Develop an AI system that analyzes pre-operative scans and assists surgeons in creating personalized surgical plans and providing real-time navigation during procedures.
 - 
-- **AI in Diagnosis**
+- **AI in Genetics**
 - 
-- 2. **Semi-Supervised Machine Learning for Early Detection of Rare Diseases in Resource-Constrained Settings**
+- * **AI-Empowered Genetic Variant Interpretation:** Design an AI model that automates the interpretation of genetic variants and provides insights into their clinical significance, accelerating the diagnosis and treatment of genetic disorders.
 <!--END_C++_TOPICS-->
 
 
