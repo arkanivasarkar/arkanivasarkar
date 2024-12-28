@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
+- **1. AI-Driven Biomarker Discovery for Precision Medicine in Cancer Diagnosis**
 - 
-- * **AI-Assisted Surgical Planning and Navigation:** Develop an AI system that analyzes pre-operative scans and assists surgeons in creating personalized surgical plans and providing real-time navigation during procedures.
-- 
-- **AI in Genetics**
-- 
-- * **AI-Empowered Genetic Variant Interpretation:** Design an AI model that automates the interpretation of genetic variants and provides insights into their clinical significance, accelerating the diagnosis and treatment of genetic disorders.
+- **2. Development of an Autonomously Operated Surgical Robot Using Deep Learning for Enhanced Surgical Precision and Efficiency**
 <!--END_C++_TOPICS-->
 
 
