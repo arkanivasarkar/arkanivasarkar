@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Driven Biomarker Discovery for Precision Medicine in Cancer Diagnosis**
+- **AI in Healthcare**
 - 
-- **2. Development of an Autonomously Operated Surgical Robot Using Deep Learning for Enhanced Surgical Precision and Efficiency**
+- * **Deep Learning for Personalized Medication Selection**
+- 
+- **AI in Surgery**
+- 
+- * **Autonomous Robotic Surgery Assistant Using Advanced Image Processing**
 <!--END_C++_TOPICS-->
 
 
