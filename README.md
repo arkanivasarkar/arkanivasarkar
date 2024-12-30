@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
+- **AI in Surgery:**
 - 
-- * **Deep Learning for Personalized Medication Selection**
+- * **Robotic Surgery with AI-Enhanced Decision-Making:** Develop an AI system that assists surgeons during robotic-assisted surgery by providing real-time analysis of intraoperative data, optimizing surgical precision and reducing complications.
 - 
-- **AI in Surgery**
+- **AI in Diagnosis:**
 - 
-- * **Autonomous Robotic Surgery Assistant Using Advanced Image Processing**
+- * **AI-Powered Medical Imaging Analysis for Precision Cancer Detection:** Design an AI model that leverages multiple modalities of medical imaging (e.g., CT, MRI) to detect cancer early and accurately, improving patient outcomes and reducing mortality rates.
 <!--END_C++_TOPICS-->
 
 
