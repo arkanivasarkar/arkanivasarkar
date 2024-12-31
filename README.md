@@ -17,11 +17,11 @@
 <!--C++_TOPICS-->
 - **AI in Surgery:**
 - 
-- * **Robotic Surgery with AI-Enhanced Decision-Making:** Develop an AI system that assists surgeons during robotic-assisted surgery by providing real-time analysis of intraoperative data, optimizing surgical precision and reducing complications.
+- * **AI-Assisted Surgical Planning for Complex Procedures:** Developing AI algorithms to analyze patient data, create personalized surgical plans, and optimize outcomes.
 - 
-- **AI in Diagnosis:**
+- **AI in Genetics:**
 - 
-- * **AI-Powered Medical Imaging Analysis for Precision Cancer Detection:** Design an AI model that leverages multiple modalities of medical imaging (e.g., CT, MRI) to detect cancer early and accurately, improving patient outcomes and reducing mortality rates.
+- * **AI-Driven Precision Medicine for Inherited Diseases:** Utilizing AI to identify genetic variants associated with inherited diseases, enabling tailored treatment recommendations and preventive measures.
 <!--END_C++_TOPICS-->
 
 
