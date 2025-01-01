@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **Project Idea 1:**
 - 
-- * **AI-Assisted Surgical Planning for Complex Procedures:** Developing AI algorithms to analyze patient data, create personalized surgical plans, and optimize outcomes.
+- * Title: Development of an AI-Powered Early Detection Tool for Diabetic Retinopathy
 - 
-- **AI in Genetics:**
+- **Project Idea 2:**
 - 
-- * **AI-Driven Precision Medicine for Inherited Diseases:** Utilizing AI to identify genetic variants associated with inherited diseases, enabling tailored treatment recommendations and preventive measures.
+- * Title: Design and Implementation of an AI-Assisted System for Personalized Cancer Treatment Recommendations
 <!--END_C++_TOPICS-->
 
 
