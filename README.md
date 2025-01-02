@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **Project Idea 1:**
+- **AI in Surgery:**
 - 
-- * Title: Development of an AI-Powered Early Detection Tool for Diabetic Retinopathy
+- * **Development of an AI-Driven Surgical Robot for Minimally Invasive Procedures**
 - 
-- **Project Idea 2:**
+- **AI in Genetics:**
 - 
-- * Title: Design and Implementation of an AI-Assisted System for Personalized Cancer Treatment Recommendations
+- * **AI-Enhanced Genome Analysis for Personalized Cancer Treatment Planning**
 <!--END_C++_TOPICS-->
 
 
