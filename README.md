@@ -15,13 +15,11 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **AI in Surgery**
+- * **AI-Assisted Minimally Invasive Surgery for Improved Precision and Safety**
 - 
-- * **Development of an AI-Driven Surgical Robot for Minimally Invasive Procedures**
-- 
-- **AI in Genetics:**
-- 
-- * **AI-Enhanced Genome Analysis for Personalized Cancer Treatment Planning**
+- **AI in Diagnosis**
+- * **AI-Empowered Triage System for Early Detection and Prioritization of Critical Illnesses**
 <!--END_C++_TOPICS-->
 
 
