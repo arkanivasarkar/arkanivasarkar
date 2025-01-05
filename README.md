@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis:**
+- **AI in Diagnosis**
 - 
-- * **Automated Histopathology Analysis for Early Cancer Detection**
+- * **AI-Powered Medical Diagnosis Assistant:** Developing an AI model that can assist healthcare professionals in diagnosing diseases based on patient data, such as symptoms, medical history, and lab results.
 - 
-- **AI in Genetics:**
+- **AI in Surgery**
 - 
-- * **Personalized Genomics-Guided Precision Medicine for Rare Genetic Disorders**
+- * **AI-Enhanced Surgical Robot:** Design and develop an AI-driven surgical robot that assists surgeons with precise and minimally invasive procedures, reducing surgical errors and improving patient outcomes.
 <!--END_C++_TOPICS-->
 
 
