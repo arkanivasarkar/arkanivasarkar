@@ -15,8 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. **AI-Powered Surgical Planning and Precision Guidance**
-- 2. **Genomic AI for Personalized Cancer Diagnosis and Treatment**
+- **AI in Diagnosis**
+- 
+- * **AI-Assisted Precision Diagnostics for Early Detection of Rare Genetic Diseases**
+- 
+- **AI in Genetics**
+- 
+- * **Deep Learning for Personalized Genomic Risk Assessment and Targeted Therapies in Oncology**
 <!--END_C++_TOPICS-->
 
 
