@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
+- **AI in Diagnosis:**
 - 
-- * **AI-Assisted Precision Diagnostics for Early Detection of Rare Genetic Diseases**
+- * **AI-Powered Cancer Screening System for Early Detection and Personalized Treatment**
 - 
-- **AI in Genetics**
+- **AI in Biology:**
 - 
-- * **Deep Learning for Personalized Genomic Risk Assessment and Targeted Therapies in Oncology**
+- * **AI-Driven Drug Discovery for Rare Genetic Diseases: Unlocking Personalized Therapies for Undiagnosed Patients**
 <!--END_C++_TOPICS-->
 
 
