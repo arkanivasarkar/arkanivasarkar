@@ -15,13 +15,15 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis:**
+- **AI in Diagnosis**
 - 
-- * **AI-Powered Cancer Screening System for Early Detection and Personalized Treatment**
+- * **Automated Diagnosis of Rare Diseases Using AI-Powered Genomic Analysis**
+- * **AI-Assisted Early Detection of Alzheimer's Disease Through Non-Invasive Brain Imaging**
 - 
-- **AI in Biology:**
+- **AI in Surgery**
 - 
-- * **AI-Driven Drug Discovery for Rare Genetic Diseases: Unlocking Personalized Therapies for Undiagnosed Patients**
+- * **AI-Guided Robotic Surgery for Precise and Minimally Invasive Procedures**
+- * **AI-Enabled Intraoperative Decision Support to Enhance Surgical Outcomes**
 <!--END_C++_TOPICS-->
 
 
