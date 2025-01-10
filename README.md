@@ -17,13 +17,11 @@
 <!--C++_TOPICS-->
 - **AI in Diagnosis**
 - 
-- * **Automated Diagnosis of Rare Diseases Using AI-Powered Genomic Analysis**
-- * **AI-Assisted Early Detection of Alzheimer's Disease Through Non-Invasive Brain Imaging**
+- * **AI-Powered Histopathology Image Analysis for Early Cancer Detection**
 - 
 - **AI in Surgery**
 - 
-- * **AI-Guided Robotic Surgery for Precise and Minimally Invasive Procedures**
-- * **AI-Enabled Intraoperative Decision Support to Enhance Surgical Outcomes**
+- * **AI-Assisted Robotic Surgery for Enhanced Precision and Efficiency**
 <!--END_C++_TOPICS-->
 
 
