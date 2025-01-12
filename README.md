@@ -15,17 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare:**
+- **AI in Diagnosis:**
 - 
-- * **Personalized Health Management with AI-Powered Decision Support Systems**
-- 
-- * **Remote Patient Monitoring and Telehealth Enhancement with Artificial Intelligence**
+- * **AI-Enhanced Medical Imaging for Early Detection and Prognosis of Cancer**
 - 
 - **AI in Surgery:**
 - 
-- * **Surgical Navigation and Precision with AI-Assisted Robotic Systems**
-- 
-- * **Intraoperative Decision-Making and Risk Management with AI-Enhanced Data Analysis**
+- * **Development of AI-Assisted Surgical Robots for Minimally Invasive and Precision Procedures**
 <!--END_C++_TOPICS-->
 
 
