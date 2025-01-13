@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis:**
+- **1. AI-Powered Personalized Surgery Planning for Complex Procedures**
 - 
-- * **AI-Enhanced Medical Imaging for Early Detection and Prognosis of Cancer**
-- 
-- **AI in Surgery:**
-- 
-- * **Development of AI-Assisted Surgical Robots for Minimally Invasive and Precision Procedures**
+- **2. Development of an AI-Based Algorithm for Early Diagnosis and Prognosis of Rare Genetic Disorders**
 <!--END_C++_TOPICS-->
 
 
