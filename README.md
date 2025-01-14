@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Powered Personalized Surgery Planning for Complex Procedures**
+- **AI in Healthcare**
 - 
-- **2. Development of an AI-Based Algorithm for Early Diagnosis and Prognosis of Rare Genetic Disorders**
+- * **Project Title:** Personalized Treatment Planning for Cancer Patients Using Machine Learning Algorithms
+- 
+- **AI in Diagnosis**
+- 
+- * **Project Title:** Automated Detection and Classification of Diabetic Retinopathy from Fundus Images Using Deep Learning
 <!--END_C++_TOPICS-->
 
 
