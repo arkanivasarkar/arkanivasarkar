@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
+- **1. AI-Driven Surgical Assistant for Precision Interventions**
 - 
-- * **Project Title:** Personalized Treatment Planning for Cancer Patients Using Machine Learning Algorithms
-- 
-- **AI in Diagnosis**
-- 
-- * **Project Title:** Automated Detection and Classification of Diabetic Retinopathy from Fundus Images Using Deep Learning
+- **2. AI-Enhanced Genetic Analysis for Personalized Disease Risk Assessment**
 <!--END_C++_TOPICS-->
 
 
