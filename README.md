@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Driven Surgical Assistant for Precision Interventions**
+- **AI in Diagnosis**
 - 
-- **2. AI-Enhanced Genetic Analysis for Personalized Disease Risk Assessment**
+- * **Project Title:** Personalized Diagnostic Systems for Early Disease Detection and Treatment Optimization
+- 
+- **AI in Surgery**
+- 
+- * **Project Title:** AI-Enabled Surgical Robots for Minimally Invasive Procedures and Improved Patient Outcomes
 <!--END_C++_TOPICS-->
 
 
