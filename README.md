@@ -15,13 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
-- 
-- * **Project Title:** Personalized Diagnostic Systems for Early Disease Detection and Treatment Optimization
-- 
-- **AI in Surgery**
-- 
-- * **Project Title:** AI-Enabled Surgical Robots for Minimally Invasive Procedures and Improved Patient Outcomes
+- 1. **AI-Assisted Precision Surgery:** Development of an AI-powered surgical navigation system to enhance accuracy, efficiency, and safety in complex surgical procedures.
+- 2. **Decoding Genetic Susceptibility to Disease: AI-Enabled Analysis of Genomic Data:** Utilizing AI algorithms to identify patterns and correlations in genetic sequences, enhancing our understanding of disease susceptibility and paving the way for personalized treatments.
 <!--END_C++_TOPICS-->
 
 
