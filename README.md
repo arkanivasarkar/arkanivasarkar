@@ -15,8 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. **AI-Assisted Precision Surgery:** Development of an AI-powered surgical navigation system to enhance accuracy, efficiency, and safety in complex surgical procedures.
-- 2. **Decoding Genetic Susceptibility to Disease: AI-Enabled Analysis of Genomic Data:** Utilizing AI algorithms to identify patterns and correlations in genetic sequences, enhancing our understanding of disease susceptibility and paving the way for personalized treatments.
+- **AI in Healthcare:**
+- 
+- * **AI-Assisted Precision Medicine for Personalized Cancer Treatment**
+- 
+- **AI in Surgery:**
+- 
+- * **AI-Enabled Robotic Surgery System for Enhanced Precision and Safety**
 <!--END_C++_TOPICS-->
 
 
