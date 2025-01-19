@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare:**
+- **1. AI for Personalized Cancer Treatment: Developing an AI-Powered Decision Support System for Optimizing Treatment Plans**
 - 
-- * **AI-Assisted Precision Medicine for Personalized Cancer Treatment**
-- 
-- **AI in Surgery:**
-- 
-- * **AI-Enabled Robotic Surgery System for Enhanced Precision and Safety**
+- **2. AI-Enabled Robotic Surgery: Enhancing Surgical Precision and Patient Outcomes through AI-Driven Robotic Control**
 <!--END_C++_TOPICS-->
 
 
