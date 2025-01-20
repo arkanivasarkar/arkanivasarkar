@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI for Personalized Cancer Treatment: Developing an AI-Powered Decision Support System for Optimizing Treatment Plans**
+- **AI in Surgery:**
 - 
-- **2. AI-Enabled Robotic Surgery: Enhancing Surgical Precision and Patient Outcomes through AI-Driven Robotic Control**
+- * **Project Title:** Surgical Haptic Robotics Enhanced by AI for Precision and Safety
+- 
+- **AI in Biology:**
+- 
+- * **Project Title:** AI-Driven Protein Engineering for Novel Therapeutic Development
 <!--END_C++_TOPICS-->
 
 
