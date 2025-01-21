@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **Project Idea 1: AI-Powered Surgical Decision Support System for Minimally Invasive Procedures**
 - 
-- * **Project Title:** Surgical Haptic Robotics Enhanced by AI for Precision and Safety
-- 
-- **AI in Biology:**
-- 
-- * **Project Title:** AI-Driven Protein Engineering for Novel Therapeutic Development
+- **Project Idea 2: AI-Driven Precision Diagnosis of Rare Genetic Disorders Using Whole-Genome Sequencing and Machine Learning**
 <!--END_C++_TOPICS-->
 
 
