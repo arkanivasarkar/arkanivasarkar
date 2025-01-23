@@ -15,17 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Genetics**
+- **AI in Surgery:**
 - 
-- * Project Title: "Developing an AI-Powered Precision Medicine Platform for Personalized Cancer Treatment"
+- * **AI-Assisted Precision Surgery for Minimally Invasive Procedures**
 - 
-- * Project Title: "Harnessing AI to Identify Rare and Ultra-Rare Genetic Variants Associated with Complex Diseases"
+- **AI in Genetics:**
 - 
-- **AI in Surgery**
-- 
-- * Project Title: "Surgical AI Assistant: Real-Time Guidance for Complex Neurosurgeries"
-- 
-- * Project Title: "AI-Enabled Robotic Surgery System for Minimally Invasive and Precise Procedures"
+- * **AI for Population-Scale Genetic Screening and Predictive Health Analysis**
 <!--END_C++_TOPICS-->
 
 
