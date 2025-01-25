@@ -15,11 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
-- * **AI-Powered Patient Monitoring for Early Disease Detection and Intervention**
+- **AI in Diagnosis:**
 - 
-- **AI in Surgery**
-- * **Autonomous Surgical Robot for Precision and Reduced Invasiveness in Complex Procedures**
+- * **AI-Enabled Early Detection of Alzheimer's Disease Using Multimodal Medical Data**
+- 
+- **AI in Biology:**
+- 
+- * **AI-Driven Design of Novel Anticancer Drugs through Protein Structure Optimization**
 <!--END_C++_TOPICS-->
 
 
