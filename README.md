@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis:**
+- **AI in Surgery**
 - 
-- * **AI-Enabled Early Detection of Alzheimer's Disease Using Multimodal Medical Data**
+- * **Augmented Reality-Guided Surgical Navigation System**
 - 
-- **AI in Biology:**
+- **AI in Diagnosis**
 - 
-- * **AI-Driven Design of Novel Anticancer Drugs through Protein Structure Optimization**
+- * **AI-Powered Precision Diagnosis System for Rare Genetic Disorders**
 <!--END_C++_TOPICS-->
 
 
