@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
+- **1. AI-Driven Personalized Surgery: Optimizing Surgical Outcomes with Preoperative Planning and Intraoperative Guidance**
 - 
-- * **Augmented Reality-Guided Surgical Navigation System**
-- 
-- **AI in Diagnosis**
-- 
-- * **AI-Powered Precision Diagnosis System for Rare Genetic Disorders**
+- **2. AI-Enhanced Genomics for Precision Medicine: Identifying Genetic Predispositions and Tailoring Treatments for Improved Patient Care**
 <!--END_C++_TOPICS-->
 
 
