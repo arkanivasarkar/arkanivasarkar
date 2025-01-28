@@ -15,9 +15,15 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Driven Personalized Surgery: Optimizing Surgical Outcomes with Preoperative Planning and Intraoperative Guidance**
+- **AI in Surgery**
 - 
-- **2. AI-Enhanced Genomics for Precision Medicine: Identifying Genetic Predispositions and Tailoring Treatments for Improved Patient Care**
+- * **Intelligent Surgical Assistant for Minimally Invasive Procedures (MIS)**
+- * **AI-Powered Surgical Instrument Guidance System for Enhanced Precision**
+- 
+- **AI in Diagnosis**
+- 
+- * **Automated Disease Detection and Classification using Deep Learning and Clinical Data**
+- * **Personalized Risk Prediction and Prognosis Modeling using AI-enabled Machine Learning**
 <!--END_C++_TOPICS-->
 
 
