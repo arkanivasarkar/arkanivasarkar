@@ -15,15 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
-- 
-- * **Intelligent Surgical Assistant for Minimally Invasive Procedures (MIS)**
-- * **AI-Powered Surgical Instrument Guidance System for Enhanced Precision**
-- 
 - **AI in Diagnosis**
 - 
-- * **Automated Disease Detection and Classification using Deep Learning and Clinical Data**
-- * **Personalized Risk Prediction and Prognosis Modeling using AI-enabled Machine Learning**
+- * **Project Title:** Accelerating Medical Diagnosis Accuracy through AI-Enhanced Diagnostic Imaging Analysis
+- 
+- **AI in Surgery**
+- 
+- * **Project Title:** Developing a Computer-Aided Surgery System for Enhanced Surgical Precision and Reduced Operating Time
 <!--END_C++_TOPICS-->
 
 
