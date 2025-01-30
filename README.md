@@ -17,11 +17,11 @@
 <!--C++_TOPICS-->
 - **AI in Diagnosis**
 - 
-- * **Project Title:** Accelerating Medical Diagnosis Accuracy through AI-Enhanced Diagnostic Imaging Analysis
+- * **Project Title:** Development of an AI-Powered Diagnostic Tool for Early Detection of Alzheimer's Disease Using MRI Images
 - 
-- **AI in Surgery**
+- **AI in Genetics**
 - 
-- * **Project Title:** Developing a Computer-Aided Surgery System for Enhanced Surgical Precision and Reduced Operating Time
+- * **Project Title:** Leveraging AI to Identify Genetic Variations Associated with Drug Response and Disease Susceptibility
 <!--END_C++_TOPICS-->
 
 
