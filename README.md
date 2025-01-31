@@ -15,13 +15,8 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
-- 
-- * **Project Title:** Development of an AI-Powered Diagnostic Tool for Early Detection of Alzheimer's Disease Using MRI Images
-- 
-- **AI in Genetics**
-- 
-- * **Project Title:** Leveraging AI to Identify Genetic Variations Associated with Drug Response and Disease Susceptibility
+- 1. **AI-Enhanced Surgical Planning and Intervention for Complex Transcatheter Procedures**
+- 2. **AI-Powered Biomarker Discovery and Precision Diagnosis for Neurodegenerative Diseases**
 <!--END_C++_TOPICS-->
 
 
