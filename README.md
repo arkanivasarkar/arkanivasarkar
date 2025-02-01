@@ -15,8 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- 1. **AI-Enhanced Surgical Planning and Intervention for Complex Transcatheter Procedures**
-- 2. **AI-Powered Biomarker Discovery and Precision Diagnosis for Neurodegenerative Diseases**
+- **AI in Surgery**
+- 
+- * **AI-Assisted Robotic Surgery for Precision and Efficiency**
+- 
+- **AI in Diagnosis**
+- 
+- * **Automated Medical Diagnosis System Using Deep Learning for Early Disease Detection**
 <!--END_C++_TOPICS-->
 
 
