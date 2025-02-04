@@ -15,13 +15,17 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
-- 
-- * **AI-Powered Personalized Treatment Plans for Cancer Patients:** Developing an AI system that analyzes medical data to predict optimal treatment strategies for individual cancer patients, enhancing precision medicine.
-- 
 - **AI in Diagnosis**
 - 
-- * **AI-Enabled Diagnostic Imaging Platform for Early Disease Detection:** Creating an AI-powered platform that combines advanced imaging techniques with AI algorithms to identify and diagnose diseases at an early stage, enabling timely intervention.
+- * **AI-Assisted Diagnostic Tool for Early Detection of Alzheimer's Disease**
+- 
+- * **Precision Medicine Platform for Personalized Cancer Diagnosis and Treatment**
+- 
+- **AI in Surgery**
+- 
+- * **AI-Enabled Robot-Assisted Surgery for Minimally Invasive Procedures**
+- 
+- * **Virtual Reality Training Simulator for Surgical Residents Using AI-Generated Patient Data**
 <!--END_C++_TOPICS-->
 
 
