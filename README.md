@@ -15,17 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
+- **1. AI-Enabled Precision Surgery**
 - 
-- * **AI-Assisted Diagnostic Tool for Early Detection of Alzheimer's Disease**
-- 
-- * **Precision Medicine Platform for Personalized Cancer Diagnosis and Treatment**
-- 
-- **AI in Surgery**
-- 
-- * **AI-Enabled Robot-Assisted Surgery for Minimally Invasive Procedures**
-- 
-- * **Virtual Reality Training Simulator for Surgical Residents Using AI-Generated Patient Data**
+- **2. AI-Driven Genomic Diagnosis for Early Disease Detection**
 <!--END_C++_TOPICS-->
 
 
