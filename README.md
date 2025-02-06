@@ -15,9 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Enabled Precision Surgery**
+- **Project Title 1:** AI-Driven Precision Surgery: Developing a Computer-Assisted System for Minimally Invasive Procedures
 - 
-- **2. AI-Driven Genomic Diagnosis for Early Disease Detection**
+- **Project Title 2:** AI-Augmented Genetic Diagnosis: Utilizing Machine Learning Algorithms for Accurate and Early Disease Detection
 <!--END_C++_TOPICS-->
 
 
