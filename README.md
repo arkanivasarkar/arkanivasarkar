@@ -15,13 +15,11 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **AI in Surgery**
+- * **AI-Assisted Robotic Surgery for Precise and Minimally Invasive Procedures**
 - 
-- * **Intelligent Robotic Surgical Assistant: Development and Evaluation of an AI-Powered System to Enhance Surgical Precision and Safety**
-- 
-- **AI in Diagnosis:**
-- 
-- * **Personalized Health Monitoring and Early Disease Detection using AI-Assisted Wearable Sensors and Machine Learning Algorithms**
+- **AI in Genetics**
+- * **AI-Powered Personalized Medicine: Optimizing Treatment Strategies Based on Individual Genomes**
 <!--END_C++_TOPICS-->
 
 
