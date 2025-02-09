@@ -15,11 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
-- * **AI-Assisted Robotic Surgery for Precise and Minimally Invasive Procedures**
+- **AI in Diagnosis**
+- 
+- * **Automated Early Detection of Disease through Machine Learning Analysis of Multimodal Clinical Data**
 - 
 - **AI in Genetics**
-- * **AI-Powered Personalized Medicine: Optimizing Treatment Strategies Based on Individual Genomes**
+- 
+- * **AI-Enhanced Precision Medicine: Personalized Treatment Plans Based on Genetic Predispositions and Environmental Factors**
 <!--END_C++_TOPICS-->
 
 
