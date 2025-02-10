@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
+- **Project Idea 1:**
 - 
-- * **Automated Early Detection of Disease through Machine Learning Analysis of Multimodal Clinical Data**
+- * **Title:** AI-Driven Precision Medicine for Personalized Cancer Treatment
 - 
-- **AI in Genetics**
+- **Project Idea 2:**
 - 
-- * **AI-Enhanced Precision Medicine: Personalized Treatment Plans Based on Genetic Predispositions and Environmental Factors**
+- * **Title:** Deep Learning for Early Detection of Alzheimer's Disease Using MRI Scans
 <!--END_C++_TOPICS-->
 
 
