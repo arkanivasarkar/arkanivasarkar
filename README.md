@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **Project Idea 1:**
+- **AI in Surgery:**
 - 
-- * **Title:** AI-Driven Precision Medicine for Personalized Cancer Treatment
+- * **Automated Surgical Navigation and Tool Control for Complex Procedures**
 - 
-- **Project Idea 2:**
+- **AI in Genetics:**
 - 
-- * **Title:** Deep Learning for Early Detection of Alzheimer's Disease Using MRI Scans
+- * **Personalized Medicine Through Deep Learning-Powered Genetic Variant Interpretation**
 <!--END_C++_TOPICS-->
 
 
