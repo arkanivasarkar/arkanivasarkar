@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
-- 
-- * **Automated Surgical Navigation and Tool Control for Complex Procedures**
-- 
 - **AI in Genetics:**
 - 
-- * **Personalized Medicine Through Deep Learning-Powered Genetic Variant Interpretation**
+- * **Automated Genome Variant Interpretation for Precision Medicine:** Developing an AI system that leverages deep learning to interpret genetic variants and provide personalized treatment recommendations for complex diseases.
+- 
+- **AI in Surgery:**
+- 
+- * **Surgical Skills Assessment and Training using Augmented Reality:** Creating a virtual reality environment powered by AI to assess surgical skills and provide personalized training programs for surgical residents and practicing surgeons.
 <!--END_C++_TOPICS-->
 
 
