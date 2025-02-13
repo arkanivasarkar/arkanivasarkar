@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Genetics:**
-- 
-- * **Automated Genome Variant Interpretation for Precision Medicine:** Developing an AI system that leverages deep learning to interpret genetic variants and provide personalized treatment recommendations for complex diseases.
-- 
 - **AI in Surgery:**
 - 
-- * **Surgical Skills Assessment and Training using Augmented Reality:** Creating a virtual reality environment powered by AI to assess surgical skills and provide personalized training programs for surgical residents and practicing surgeons.
+- * **Surgical Assistance with AI-Guided Robotic Precision:** Development of an AI-powered surgical robot that uses real-time patient data to optimize incision location, minimize tissue damage, and improve surgical outcomes.
+- 
+- **AI in Diagnosis:**
+- 
+- * **AI-Enabled Early Diagnosis of Rare Diseases:** Creation of an AI algorithm that analyzes genetic and clinical data to identify patterns and predict rare diseases with high accuracy, facilitating early detection and personalized treatment.
 <!--END_C++_TOPICS-->
 
 
