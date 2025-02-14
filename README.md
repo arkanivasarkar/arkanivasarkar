@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery:**
+- **AI in Surgery**
 - 
-- * **Surgical Assistance with AI-Guided Robotic Precision:** Development of an AI-powered surgical robot that uses real-time patient data to optimize incision location, minimize tissue damage, and improve surgical outcomes.
+- * **AI-Assisted Robotic Surgery for Complex Orthopedic Procedures**
 - 
-- **AI in Diagnosis:**
+- **AI in Diagnosis**
 - 
-- * **AI-Enabled Early Diagnosis of Rare Diseases:** Creation of an AI algorithm that analyzes genetic and clinical data to identify patterns and predict rare diseases with high accuracy, facilitating early detection and personalized treatment.
+- * **Development of an AI-Powered Platform for the Early Detection of Diabetic Retinopathy**
 <!--END_C++_TOPICS-->
 
 
