@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
+- **AI in Diagnosis:**
 - 
-- * **AI-Assisted Robotic Surgery for Complex Orthopedic Procedures**
+- * **AI-Enhanced Cancer Detection and Prognosis System**
 - 
-- **AI in Diagnosis**
+- **AI in Surgery:**
 - 
-- * **Development of an AI-Powered Platform for the Early Detection of Diabetic Retinopathy**
+- * **Automated Robotic Surgery Assistant with Real-Time Surgical Guidance**
 <!--END_C++_TOPICS-->
 
 
