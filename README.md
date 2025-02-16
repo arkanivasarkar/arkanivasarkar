@@ -15,13 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis:**
+- **AI in Healthcare**
 - 
-- * **AI-Enhanced Cancer Detection and Prognosis System**
+- * **AI-Powered Real-Time Patient Monitoring for Early Detection of Deterioration**
 - 
-- **AI in Surgery:**
+- **AI in Diagnosis**
 - 
-- * **Automated Robotic Surgery Assistant with Real-Time Surgical Guidance**
+- * **AI-Enabled Imaging Analysis for Non-Invasive Early Diagnosis of Alzheimer's Disease**
 <!--END_C++_TOPICS-->
 
 
