@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
+- **1. AI-Driven Personalized Cancer Treatment Optimization**
 - 
-- * **AI-Powered Real-Time Patient Monitoring for Early Detection of Deterioration**
-- 
-- **AI in Diagnosis**
-- 
-- * **AI-Enabled Imaging Analysis for Non-Invasive Early Diagnosis of Alzheimer's Disease**
+- **2. AI-Enabled Image Analysis for Minimally Invasive Robotic Surgery**
 <!--END_C++_TOPICS-->
 
 
