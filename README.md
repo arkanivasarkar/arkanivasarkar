@@ -15,9 +15,17 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Driven Personalized Cancer Treatment Optimization**
+- **AI in Healthcare**
 - 
-- **2. AI-Enabled Image Analysis for Minimally Invasive Robotic Surgery**
+- * **Project Title:** Development of an AI-Assisted Telehealth Platform for Remote Patient Monitoring and Early Disease Detection
+- 
+- * **Project Title:** Integration of AI into Electronic Health Records for Enhanced Disease Diagnosis, Treatment Planning, and Personalized Patient Care
+- 
+- **AI in Surgery**
+- 
+- * **Project Title:** Design and Implementation of an AI-Powered Surgical Guidance System for Precision and Error Reduction in Complex Surgeries
+- 
+- * **Project Title:** Development of a Virtual Reality-Based AI Training Simulator for Surgeons, Enhancing Skill Development and Operative Confidence
 <!--END_C++_TOPICS-->
 
 
