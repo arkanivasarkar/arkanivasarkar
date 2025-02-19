@@ -15,17 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Healthcare**
+- **1. AI-Powered Endoscopic Tissue Classification for Enhanced Surgical Precision**
 - 
-- * **Project Title:** Development of an AI-Assisted Telehealth Platform for Remote Patient Monitoring and Early Disease Detection
-- 
-- * **Project Title:** Integration of AI into Electronic Health Records for Enhanced Disease Diagnosis, Treatment Planning, and Personalized Patient Care
-- 
-- **AI in Surgery**
-- 
-- * **Project Title:** Design and Implementation of an AI-Powered Surgical Guidance System for Precision and Error Reduction in Complex Surgeries
-- 
-- * **Project Title:** Development of a Virtual Reality-Based AI Training Simulator for Surgeons, Enhancing Skill Development and Operative Confidence
+- **2. Machine Learning Algorithms for Personalized Treatment Planning in Cancer Genetics**
 <!--END_C++_TOPICS-->
 
 
