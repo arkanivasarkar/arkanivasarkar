@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Powered Endoscopic Tissue Classification for Enhanced Surgical Precision**
+- **AI in Diagnosis**
 - 
-- **2. Machine Learning Algorithms for Personalized Treatment Planning in Cancer Genetics**
+- * **Project Title:** AI-Assisted Precision Diagnosis for Early Detection of Rare Cancers
+- 
+- **AI in Genetics**
+- 
+- * **Project Title:** AI-Driven Gene Variant Interpretation for Personalized Medicine
 <!--END_C++_TOPICS-->
 
 
