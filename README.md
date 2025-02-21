@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Diagnosis**
+- **1. AI-Enabled Adaptive Surgery for Enhanced Precision and Outcomes**
 - 
-- * **Project Title:** AI-Assisted Precision Diagnosis for Early Detection of Rare Cancers
-- 
-- **AI in Genetics**
-- 
-- * **Project Title:** AI-Driven Gene Variant Interpretation for Personalized Medicine
+- **2. AI-Driven Biomarker Discovery and Genomic Analysis for Personalized Cancer Treatment**
 <!--END_C++_TOPICS-->
 
 
