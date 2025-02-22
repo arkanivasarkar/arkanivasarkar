@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Enabled Adaptive Surgery for Enhanced Precision and Outcomes**
+- **AI in Surgery**
 - 
-- **2. AI-Driven Biomarker Discovery and Genomic Analysis for Personalized Cancer Treatment**
+- * **Automated Robotic Surgery Planning: Leveraging AI to Optimize Complex Surgical Procedures**
+- 
+- **AI in Genetics**
+- 
+- * **Personalized Medicine Through AI-Driven Genomic Analysis: Unlocking Precision for Rare and Complex Diseases**
 <!--END_C++_TOPICS-->
 
 
