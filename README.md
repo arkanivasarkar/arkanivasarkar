@@ -15,13 +15,9 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **AI in Surgery**
+- **1. AI-Powered Surgery Simulator for Minimally Invasive Procedures**
 - 
-- * **Automated Robotic Surgery Planning: Leveraging AI to Optimize Complex Surgical Procedures**
-- 
-- **AI in Genetics**
-- 
-- * **Personalized Medicine Through AI-Driven Genomic Analysis: Unlocking Precision for Rare and Complex Diseases**
+- **2. AI-Assisted Genetic Risk Assessment for Personalized Healthcare Plans**
 <!--END_C++_TOPICS-->
 
 
