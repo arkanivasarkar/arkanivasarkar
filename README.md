@@ -15,9 +15,13 @@
 
 ### Project Ideas (AI generated; updates automatically everyday)
 <!--C++_TOPICS-->
-- **1. AI-Powered Surgery Simulator for Minimally Invasive Procedures**
+- **AI in Healthcare:**
 - 
-- **2. AI-Assisted Genetic Risk Assessment for Personalized Healthcare Plans**
+- * **Automated Patient Triage and Diagnosis using Deep Learning**
+- 
+- **AI in Surgery:**
+- 
+- * **Robotic Surgery Assistant with Intraoperative Image Recognition and Predictive Analytics**
 <!--END_C++_TOPICS-->
 
 
