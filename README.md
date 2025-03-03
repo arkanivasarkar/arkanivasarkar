@@ -13,19 +13,6 @@
 - Currently working on: autoBayesian
 
 
-### Project Ideas (AI generated; updates automatically everyday)
-<!--C++_TOPICS-->
-- **AI in Healthcare:**
-- 
-- * **Automated Patient Triage and Diagnosis using Deep Learning**
-- 
-- **AI in Surgery:**
-- 
-- * **Robotic Surgery Assistant with Intraoperative Image Recognition and Predictive Analytics**
-<!--END_C++_TOPICS-->
-
-
-
 
 <br />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkanivasarkar&show_icons=true&locale=en&layout=donut-vertical&bg_color=00000000&theme=radical" alt="arkanivasarkar" /></p>
