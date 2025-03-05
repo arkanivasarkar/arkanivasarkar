@@ -2,8 +2,9 @@
 
 ### 👋 Welcome to My Digital Lab – Arkaniva's GitHub 🚀
 
+
 ```diff
-+ Bioengineer | AI Sorcerer | XR Architect | Medical Innovator
++                                       Bioengineer | AI Sorcerer | XR Architect | Medical Innovator
 ```
 
 ---
