@@ -4,7 +4,7 @@
 
 
 ```diff
-+                     Bioengineer | AI Sorcerer | XR Architect | Medical Innovator                            
++                          Bioengineer | AI Sorcerer | XR Architect | Medical Innovator                            
 ```
 
 ---
