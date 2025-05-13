@@ -11,7 +11,7 @@
 
 ### 🧠 About Me:
 
-🔬 **Scientist by Training, Engineer by Passion, Innovator by Choice**  
+🔬 **Engineer by Training, Scientist by Passion, Innovator by Choice**  
 💡 Merging **AI, XR, and Bioengineering** to revolutionize healthcare & surgical technology  
 🦾 Developing **cutting-edge algorithms** for medical imaging, robotics, & 3D visualization  
 🕶️ Exploring **Augmented & Mixed Reality** to build next-gen surgical guidance systems  
